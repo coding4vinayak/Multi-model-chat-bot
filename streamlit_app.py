@@ -14,7 +14,7 @@ def icon(emoji: str):
     )
 
 
-icon("🏎️")
+icon("🤖❤️🤖")
 
 st.subheader("vinayak multi-model bot🤖", divider="rainbow", anchor=False)
 
